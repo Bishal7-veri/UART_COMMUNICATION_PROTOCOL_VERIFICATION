@@ -9,3 +9,5 @@ Cons of UART Protocol
 UART is having serial communication, therefore, it has less speed.
 Start bit, stop bit, and the parity bit is other overhead.  
 Since this is asynchronous communication so here there are many things that we need to do in configuration, for instance, we should configure both devices at the same speed because the clock signal is absent.
+![image](https://github.com/user-attachments/assets/00f67574-fa43-49d4-a31c-0f6fe22e71dd)
+
