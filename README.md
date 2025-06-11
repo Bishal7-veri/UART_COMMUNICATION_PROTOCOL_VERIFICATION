@@ -9,3 +9,5 @@ UART means Universal Asynchronous Receiver Transmitter Protocol. UART is used fo
 
 ![image](https://github.com/user-attachments/assets/5f5885a8-95f4-4f81-a6d1-92554ac186d9)
 
+# OUTPUT RESULTS WAVEFORM
+![image](https://github.com/user-attachments/assets/88798310-9248-4479-9017-fd8171f84fc6)
